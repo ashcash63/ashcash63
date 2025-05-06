@@ -4,7 +4,7 @@ I'm Aashi Chaubey a first year **Computer Engineering student** at the Universit
 
 On my weekends, I love participating in hackathons, recently winning 1st place at WIE Hackathon and Best HealthTechHack at Deltahacks.
 
-⚡ I am looking for Summer 2025 internships and I would love to get in touch!
+⚡ I am looking for Winter 2026 internships and I would love to get in touch!
 
 ## 🛠️ Tech Stack
 
