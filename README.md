@@ -1,6 +1,6 @@
 ## About me 👋
 
-I'm Aashi Chaubey a first year **Computer Engineering student** at the University of Waterloo with a passion for autonomous systems and AI/ML. I'm a software developer on WATonomous Design Team and have interned as a innovation developer at Interac corp, implementing NLP algorithms using Python and Tensorflow. 
+I'm Aashi Chaubey, a **Computer Engineering student** at the University of Waterloo with a passion for autonomous systems and AI/ML. I'm a software developer on WATonomous Design Team and have interned as a innovation developer at Interac corp, implementing NLP algorithms using Python and Tensorflow. 
 
 On my weekends, I love participating in hackathons, recently winning 1st place at WIE Hackathon and Best HealthTechHack at Deltahacks.
 
